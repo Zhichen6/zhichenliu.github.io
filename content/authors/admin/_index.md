@@ -29,7 +29,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: fa-envelope
+  - icon: fas fa-envelope big-icon
     url: 'mailto:zhichliu@umich.edu'
     label: E-mail Me
   - icon: brands/github
@@ -40,7 +40,7 @@ profiles:
     url: https://scholar.google.com/citations?user=RoB_K0YAAAAJ&hl=en
 
 interests:
-  - Artificial Intelligence
+  - Transportation Network Analysis
   - Computational Linguistics
   - Information Retrieval
 
