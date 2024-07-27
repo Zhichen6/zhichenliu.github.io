@@ -13,7 +13,7 @@ authors:
 
 
 date: '2023-05-01T00:00:00Z'
-doi: 'https://www.sciencedirect.com/science/article/abs/pii/S0968090X23000748'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -24,16 +24,16 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *Transportation Research Part C: Emerging Technologies*
+publication_short: In *Transportation Research Part C*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper intends to transform the transportation network equilibrium modeling paradigm via an “end-to-end” framework that directly learns travel choice preferences and the equilibrium state from multi-day link flow observations. The centerpiece of the proposed framework is to use deep neural networks to represent travelers’ route choice preferences and then encapsulate the neural networks in a variational inequality that prescribes the user equilibrium flow distribution. The proposed neural network architecture ensures the existence of equilibrium and accommodates future changes in road network topology. The variational inequality is then embedded as an implicit layer in a learning framework, which takes the context features (e.g., road network and traveler characteristics) as input and outputs the user equilibrium flow distribution. By comparing computed equilibrium flows with observed flows, the neural networks can be trained. The proposed end-to-end framework is demonstrated and validated using synthesized data for the Sioux Falls network.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac #convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - End-to-end Learning of User Equilibrium
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,13 +44,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
