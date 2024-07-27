@@ -2,12 +2,12 @@
 title: "An example journal article"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Zhibin Chen
+- Yafeng Yin
+- Zhengtian Xu
+
+date: "2022-08-01T00:00:00Z"
+doi: "10.1016/j.trc.2022.103743"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,13 +18,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: 'In *Transportation Research Part C: Emerging Technologies*'
+#publication_short: In *Transportation Research Part C*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This study examines regulatory policies for electrifying a ridesourcing system. To do so, we develop an aggregate modeling framework to analyze a ridesourcing market involving electric vehicles and examine the response of the ridesourcing platform to regulatory policies such as annual permit fees (AP), differential trip-based fees (TB) or differential commission caps (CC). Our modeling exercises and numerical analyses suggest that both AP and TB are effective at achieving a high electrification level, while CC may only electrify the system to a low level. However, CC is the most cost-efficient as it simultaneously benefits drivers and customers, and allows finer intervention to the market. TB is the least cost-efficient as the platform prefers to deliver fewer customers to avoid the trip-based fees and surcharge drivers and customers for higher per-trip profits. Under all policies, the platform’s best response is always to adopt fast chargers and gradually expand the charging network to accommodate the increasing charging needs of its electric vehicle fleet.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac #convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
