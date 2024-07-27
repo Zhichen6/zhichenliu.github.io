@@ -24,7 +24,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Transportation Research Part C Emerging Technologies*
+publication: In *Transportation Research Part C - Emerging Technologies*
 publication_short: In *Transportation Research Part C*
 
 abstract: This paper intends to transform the transportation network equilibrium modeling paradigm via an “end-to-end” framework that directly learns travel choice preferences and the equilibrium state from multi-day link flow observations. The centerpiece of the proposed framework is to use deep neural networks to represent travelers’ route choice preferences and then encapsulate the neural networks in a variational inequality that prescribes the user equilibrium flow distribution. The proposed neural network architecture ensures the existence of equilibrium and accommodates future changes in road network topology. The variational inequality is then embedded as an implicit layer in a learning framework, which takes the context features (e.g., road network and traveler characteristics) as input and outputs the user equilibrium flow distribution. By comparing computed equilibrium flows with observed flows, the neural networks can be trained. The proposed end-to-end framework is demonstrated and validated using synthesized data for the Sioux Falls network.
