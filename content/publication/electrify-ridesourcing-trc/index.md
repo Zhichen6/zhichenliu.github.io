@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Regulatory policies to electrify ridesourcing systems"
 authors:
 - admin
 - Zhibin Chen
@@ -33,14 +33,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=peJASmV25yo&t=1s'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
