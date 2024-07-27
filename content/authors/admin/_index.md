@@ -2,7 +2,7 @@
 # Display name
 title: Zhichen Liu
 # Name pronunciation (optional)
-name_pronunciation: Zhichen Liu
+# name_pronunciation: Zhichen Liu
 
 # Full name (for SEO)
 first_name: Zhichen
@@ -29,21 +29,15 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+  - icon: fa-envelope
+    url: 'mailto:zhichliu@umich.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Zhichen6
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/zc-liu/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=RoB_K0YAAAAJ&hl=en
 
 interests:
   - Artificial Intelligence
