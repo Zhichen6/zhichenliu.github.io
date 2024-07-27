@@ -7,14 +7,13 @@ title: 'End-to-end learning of user equilibrium with implicit neural networks'
 authors:
   - admin
   - Yafeng Yin
+  - Fan Bai
+  - Donald K Grimm
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+
+date: '2023-05-01T00:00:00Z'
+doi: 'https://www.sciencedirect.com/science/article/abs/pii/S0968090X23000748'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -22,7 +21,7 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Hugo Blox Builder Conference*
