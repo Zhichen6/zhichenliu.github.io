@@ -13,7 +13,7 @@ authors:
 
 
 date: '2023-05-01T00:00:00Z'
-doi: ''
+doi: '10.1016/j.trc.2023.104085'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4198835'
 url_code: ''
 url_dataset: ''
 url_poster: ''
