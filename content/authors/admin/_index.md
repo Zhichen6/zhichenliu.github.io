@@ -29,7 +29,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: email.svg
+  - icon: email
     url: 'mailto:zhichliu@umich.edu'
     label: E-mail Me
   - icon: brands/github
