@@ -1,9 +1,14 @@
 ---
-title: "An example preprint / working paper"
+title: "Estimating Sectional Volume of Travelers Based on Mobile Phone Data"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+- Xiao Fu
+- Yang Liu
+- Weiping Tong
+- Zhiyuan Liu
+
+date: "2020-07-20T00:00:00Z"
+doi: "10.1061/JTEPBS.0000429"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -11,38 +16,36 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: 'In *Journal of Transportation Engineering, Part A: Systems*'
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The sectional volume of travelers refers to the number of travelers crossing a section boundary (e.g., river, mountain, railway line, etc.) within a certain time period. Mobile phone data provides continuous and large-scale mobility pattern information without compromising the comprehensiveness of travel modes. We propose a three-stage framework to estimate the sectional volume of travelers using the base station trajectory from massive mobile phone data. In the first two stages, the spatial and temporal uncertainties of trajectories are explicitly addressed by a hybrid filtering algorithm and a cell-to-cell trajectory inference algorithm, respectively. In the third stage, the sectional volume of travelers is estimated using aggregated trajectories. The proposed framework is validated using a sampled dataset with annotated ground truth and a city-scale dataset. The results show that the proposed framework is effective in dealing with spatial and temporal uncertainties of trajectories. The sectional volume estimation method performs stably with a low average error rate and is applicable to section boundaries of different scales.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac #convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- Sustainable Mobility Modeling
+featured: false
 
-featured: true
-
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
+# links:
+# - name: ""
+#   url: ""
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
@@ -51,8 +54,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -62,7 +64,9 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
