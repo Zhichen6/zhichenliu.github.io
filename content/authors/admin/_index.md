@@ -9,8 +9,8 @@ first_name: Zhichen
 last_name: Liu
 
 # Status emoji
-# status:
-#  icon: ☕️
+status:
+  icon: 🚗
 
 # Is this the primary user of the site?
 superuser: true
@@ -42,11 +42,11 @@ profiles:
 
 interests:
   - Transportation Network Analysis
-  - Computational Linguistics
-  - Information Retrieval
+  - AI-enabled Decision-Making in Transportation System
+  - Sustainable Mobility Modeling and Policy
 
 education:
-  - area: PhD in Civil Engineering (Next Generation Transportation Systems)
+  - area: Ph.D. in Civil Engineering (Next Generation Transportation Systems)
     institution: University of Michigan, Ann Arbor, MI
     date_start: 2020-08-31
     date_end: 2025-08-31
@@ -55,6 +55,17 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
+  - area: M.S. in Industrial and Operations Engineering
+    institution: University of Michigan, Ann Arbor, MI
+    date_start: 2020-08-31
+    date_end: 2024-12-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.Eng. in Transportation Engineering
     institution: Southeast University, Nanjing, China
     date_start: 2016-09-01
@@ -62,17 +73,6 @@ education:
     summary: |
       GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
