@@ -23,7 +23,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: 'submitted'
+publication: 'Working Paper'
 #publication_short: In *Transportation Research Part C*
 
 abstract: 'This paper establishes an end-to-end learning framework for constructing transportation network equilibrium models. The proposed framework directly learns supply and demand components as well as equilibrium states from multi-day traffic state observations. Specifically, it parametrizes unknown model components with neural networks and embeds them in an implicit layer to enforce user equilibrium conditions. By minimizing the differences between the predicted and observed traffic states, parameters for supply and demand components are simultaneously estimated. We demonstrate that the end-to-end framework is expressive: when parametrized with sufficiently large neural networks, it can replicate any unique, differentiable equilibrium state that solves a well-posed variational inequality. Moreover, it can generalize to new, unseen data when trained with sufficient observations. For efficient training, we design an auto-differentiation-based gradient descent algorithm that handles link-and path-based user equilibrium constraints and ensures local convergence. The proposed framework is demonstrated using three synthesized datasets.'
